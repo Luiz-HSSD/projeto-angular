@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    max-width: 80px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.mat-danger{
+    background-color: red;
+    color: #fff;
+}

@@ -1,0 +1,10 @@
+.edit > i{
+    margin-right: 20px;
+    color: #d9cd26;
+    cursor: pointer;
+}
+
+.delete > i {
+    color: #e35e6b;
+    cursor: pointer;
+}
